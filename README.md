@@ -1,4 +1,4 @@
-<img src="https://images.pexels.com/photos/2004161/pexels-photo-2004161.jpeg" alt="Image Alt Text" height="200">
+<img src="https://images.pexels.com/photos/2004161/pexels-photo-2004161.jpeg" alt="Image Alt Text" height="400">
 [![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 <img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
