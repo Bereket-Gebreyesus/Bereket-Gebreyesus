@@ -4,13 +4,10 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<div style="display: flex; justify-content: center;">
-    
+<div style="display: flex; justify-content: center;"> 
     <img src="https://github-readme-stats.vercel.app/api/?username=Bereket-Gebreyesus&theme=default" />
-    
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bereket-Gebreyesus&theme=default" />
-    
-</div>
+    </div>
 
 <!--
 **Bereket-Gebreyesus/Bereket-Gebreyesus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
