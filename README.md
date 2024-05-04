@@ -1,4 +1,4 @@
-<img src="https://www.yourteaminindia.com/hs-fs/hubfs/Imported_Blog_Media/Top-10-Advantages-Of-Hiring-A-Full-Stack-Developer-Sep-25-2023-10-20-15-4840-AM.jpg?width=816&height=460&name=Top-10-Advantages-Of-Hiring-A-Full-Stack-Developer-Sep-25-2023-10-20-15-4840-AM.jpg" alt="Image Alt Text" height="350" width="1000">
+<img src="https://www.yourteaminindia.com/hs-fs/hubfs/Imported_Blog_Media/Top-10-Advantages-Of-Hiring-A-Full-Stack-Developer-Sep-25-2023-10-20-15-4840-AM.jpg?width=816&height=460&name=Top-10-Advantages-Of-Hiring-A-Full-Stack-Developer-Sep-25-2023-10-20-15-4840-AM.jpg" alt="Image Alt Text" height="300" width="1000">
 
 [![Header](https://raw.githubusercontent.com/Bereket-Gebreyesus/Bereket-Gebreyesus/Bereket-Gebreyesus/readme_header.png "Header")](https://some-url.dev/)
 
