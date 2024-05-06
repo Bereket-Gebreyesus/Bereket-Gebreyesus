@@ -2,7 +2,9 @@
 
 ## I am studying Fullstack development @ HYF
 
-<img src="https://github.com/Bereket-Gebreyesus/Bereket-Gebreyesus/raw/main/giphy.gif" width="300" height="200">
+<div style="text-align: center;">
+    <img src="https://github.com/Bereket-Gebreyesus/Bereket-Gebreyesus/raw/main/giphy.gif" width="300" height="200" alt="Fullstack developer">
+</div>
 
 ##
 <div style="display: flex; flex-direction: row;">
