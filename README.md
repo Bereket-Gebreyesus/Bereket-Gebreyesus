@@ -5,6 +5,12 @@
 <div style="text-align: center;">
     <img src="https://github.com/Bereket-Gebreyesus/Bereket-Gebreyesus/raw/main/giphy.gif" width="300" height="200" alt="Fullstack developer">
 </div>
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Adjust this value based on your needs */
+}
 
 ##
 <div style="display: flex; flex-direction: row;">
