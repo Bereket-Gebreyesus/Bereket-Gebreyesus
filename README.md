@@ -3,7 +3,7 @@
 ## I am studying Fullstack development @ HYF
 
 
-<img src="https://www.softpepper.ro/Content/Images/News/giphy.gif">
+<img src="https://github.com/Bereket-Gebreyesus/Bereket-Gebreyesus/blob/main/giphy.gif">
 
 ##
 <div style="display: flex; flex-direction: row;">
