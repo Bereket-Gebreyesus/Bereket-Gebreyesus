@@ -2,8 +2,7 @@
 
 ## I am studying Fullstack development @ HYF
 
-
-<img src="https://github.com/Bereket-Gebreyesus/Bereket-Gebreyesus/blob/main/giphy.gif">
+<img src="https://github.com/Bereket-Gebreyesus/Bereket-Gebreyesus/raw/main/giphy.gif" width="300" height="200">
 
 ##
 <div style="display: flex; flex-direction: row;">
