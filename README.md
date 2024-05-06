@@ -2,9 +2,10 @@
 
 ## I am studying Fullstack development @ HYF
 
-<div style="text-align: center;">
-    <img src="https://github.com/Bereket-Gebreyesus/Bereket-Gebreyesus/raw/main/giphy.gif" width="300" height="200" alt="Fullstack developer">
+<div class="container">
+    <img src="https://github.com/Bereket-Gebreyesus/Bereket-Gebreyesus/raw/main/giphy.gif" width="300" height="200" alt="Description of the image">
 </div>
+
 .container {
     display: flex;
     justify-content: center;
