@@ -5,12 +5,15 @@
 <div class="container">
     <img src="https://github.com/Bereket-Gebreyesus/Bereket-Gebreyesus/raw/main/giphy.gif" width="300" height="200" alt="Description of the image">
 </div>
-.container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh; /* Adjust this value based on your needs */
-}
+
+<style>
+        .container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+    </style>
 
 ##
 <div style="display: flex; flex-direction: row;">
