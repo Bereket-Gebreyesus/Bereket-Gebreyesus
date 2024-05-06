@@ -5,7 +5,6 @@
 <div class="container">
     <img src="https://github.com/Bereket-Gebreyesus/Bereket-Gebreyesus/raw/main/giphy.gif" width="300" height="200" alt="Description of the image">
 </div>
-
 .container {
     display: flex;
     justify-content: center;
