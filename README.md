@@ -3,7 +3,7 @@
 ## I am studying Fullstack development @ HYF
 
 <div class="container">
-    <img src="https://github.com/Bereket-Gebreyesus/Bereket-Gebreyesus/raw/main/giphy.gif" width="300" height="1000" alt="Description of the image">
+    <img src="https://github.com/Bereket-Gebreyesus/Bereket-Gebreyesus/raw/main/giphy.gif" width="1000" height="200" alt="Description of the image">
 </div>
 
 ##
