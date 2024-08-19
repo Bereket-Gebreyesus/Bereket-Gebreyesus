@@ -2,10 +2,6 @@
 
 ## I am studying Fullstack development @ HYF
 
-<div class="container">
-    <img src="https://github.com/Bereket-Gebreyesus/Bereket-Gebreyesus/raw/main/giphy.gif" width="1000" height="300" alt="Description of the image">
-</div>
-
 ##
 <div style="display: flex; flex-direction: row;">
     <img src="https://github-readme-stats.vercel.app/api/?username=Bereket-Gebreyesus&theme=default" style="height: 200px;" />
