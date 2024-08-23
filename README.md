@@ -1,24 +1,67 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# <div align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello, folks!</div>
 
-## I am studying Fullstack development @ HYF
-
-##
-<div style="display: flex; flex-direction: row;">
-    <img src="https://github-readme-stats.vercel.app/api/?username=Bereket-Gebreyesus&theme=default" style="height: 200px;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bereket-Gebreyesus&theme=default" style="height: 200px;" />
+<div align="center">
+  <h1 class="typing-demo">I am Bereket Gebreyesus</h1>
+  <h3 class="typing-demo" style="animation-delay: 3.5s; animation-duration: 3.5s;">Fullstack Developer @ HYF (trainee)</h3>
 </div>
 
-<!--
-**Bereket-Gebreyesus/Bereket-Gebreyesus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <div align="center">
+  <a href="https://www.linkedin.com/in/bereket-gebreyesus/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/bereketgebre_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://github.com/Bereket-Gebreyesus"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Bereket-Gebreyesus.Bereket-Gebreyesus" alt="visitor badge"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 🔭 Current Projects
+- [BikeShopApp](https://github.com/Bereket-Gebreyesus/BikeShopApp): a react project, modern UI platform designed for bike enthusiasts to explore and manage their favourite bicycles.
+- [WeatherCastApp](https://github.com/Bereket-Gebreyesus/WeatherCast-App): an API Project, that allows users to check the current weather conditions and forecasts for their location or any other specified location.
+- [Book Recommentaion App](https://github.com/HackYourFuture/cohort47-project-group-A): Book Recommandations application allows you to explore a wide range of books, add them to your collection, and mark your favorites. You can also add reviews, give ratings, and see the most popular and latest books. Based on your favorite books, we will send you personalized recommendations via email to help you discover new books that match your interests. https://c47-group-a.hackyourfuture.tech/welcome
+
+## 🌱 Learning Goals
+- Mastering MERN (MongoDB, Express, React, and Node.js) applications.
+
+## 💻 Technologies & Tools
+
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/React_Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="React Bootstrap">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+</div>
+
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Bereket-Gebreyesus&show_icons=true&theme=radical" style="height: 200px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bereket-Gebreyesus&layout=compact&theme=radical" style="height: 200px;" />
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Bereket-Gebreyesus&theme=onedark" alt="GitHub Trophies">
+</div>
+
+## 📫 Let's Connect!
+
+Feel free to reach out if you have any questions or want to collaborate on a project!
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/bereket-gebreyesus/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/bereketgebre_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="mailto:Bereketgebreyesusnl@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</div>
