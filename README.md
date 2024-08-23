@@ -46,8 +46,10 @@
 
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Bereket-Gebreyesus&show_icons=true&theme=radical" style="height: 200px;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bereket-Gebreyesus&layout=compact&theme=radical" style="height: 200px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Bereket-Gebreyesus&show_icons=true&theme=radical" style="height: 200px; width: 400px;" />
+</div>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bereket-Gebreyesus&layout=compact&theme=radical" style="height: 200px; width: 400px;" />
 </div>
 
 ## 🏆 GitHub Trophies
