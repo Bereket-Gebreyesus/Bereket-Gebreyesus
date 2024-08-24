@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1 class="typing-demo">I am Bereket Gebreyesus</h1>
-  <h3 class="typing-demo" style="animation-delay: 3.5s; animation-duration: 3.5s;">Fullstack Developer @ HYF</h3>
+  <h3 class="typing-demo" style="animation-delay: 3.5s; animation-duration: 3.5s;">Fullstack Developer @ HYF (trainee)</h3>
 </div>
 
  <div align="center">
@@ -20,6 +20,7 @@
 ## 🔭 Current Projects
 - [BikeShopApp](https://github.com/Bereket-Gebreyesus/BikeShopApp): a react project, modern UI platform designed for bike enthusiasts to explore and manage their favourite bicycles.
 - [WeatherCastApp](https://github.com/Bereket-Gebreyesus/WeatherCast-App): an API Project, that allows users to check the current weather conditions and forecasts for their location or any other specified location.
+- [Book Recommentaion App](https://github.com/HackYourFuture/cohort47-project-group-A): Book Recommandations application allows you to explore a wide range of books, add them to your collection, and mark your favorites. You can also add reviews, give ratings, and see the most popular and latest books. Based on your favorite books, we will send you personalized recommendations via email to help you discover new books that match your interests. https://c47-group-a.hackyourfuture.tech/welcome
 
 ## 🌱 Learning Goals
 - Mastering MERN (MongoDB, Express, React, and Node.js) applications.
@@ -33,16 +34,22 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/React_Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="React Bootstrap">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
 </div>
 
+
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Bereket-Gebreyesus&show_icons=true&theme=radical" style="height: 200px;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bereket-Gebreyesus&layout=compact&theme=radical" style="height: 200px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Bereket-Gebreyesus&show_icons=true&theme=radical" style="height: 200px; width: 400px;" />
+</div>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bereket-Gebreyesus&layout=compact&theme=radical" style="height: 200px; width: 400px;" />
 </div>
 
 ## 🏆 GitHub Trophies
