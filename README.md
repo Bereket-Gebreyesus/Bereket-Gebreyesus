@@ -22,6 +22,8 @@
 
 ## 🌱 Learning Goals
 - Mastering MERN (MongoDB, Express, React, and Node.js) applications.
+- Cloud services (AWS).
+- TypeScript.
 
 ## 💻 Technologies & Tools
 
