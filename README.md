@@ -17,7 +17,7 @@
 
 
 ## 🔭 Current Projects
-- [Book Recommentaion App](https://github.com/HackYourFuture/cohort47-project-group-A): Book Recommandations application allows you to explore a wide range of books, add them to your collection, and mark your favorites. You can also add reviews, give ratings, and see the most popular and latest books. Based on your favorite books, we will send you personalized recommendations via email to help you discover new books that match your interests. https://c47-group-a.hackyourfuture.tech/welcome
+- [Book Recommentaion App](https://github.com/Bereket-Gebreyesus/Book-Recommendation-App): Book Recommandations application allows you to explore a wide range of books, add them to your collection, and mark your favorites. You can also add reviews, give ratings, and see the most popular and latest books. Based on your favorite books, we will send you personalized recommendations via email to help you discover new books that match your interests. https://c47-group-a.hackyourfuture.tech/welcome
 
 ## 🌱 Learning Goals
 - Cloud services (AWS).
