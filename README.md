@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1 class="typing-demo">I am Bereket Gebreyesus</h1>
-  <h3 class="typing-demo" style="animation-delay: 3.5s; animation-duration: 3.5s;">Former Full-Stack Developer @ HYF.</h3>
+  <h3 class="typing-demo" style="animation-delay: 3.5s; animation-duration: 3.5s;">JavaSctipt/TypeScript Full-Stack Developer </h3>
 </div>
 
  <div align="center">
@@ -17,15 +17,15 @@
 
 
 ## 🔭 Current Projects
-- [Book Recommentaion App](https://github.com/Bereket-Gebreyesus/Book-Recommendation-App): Book Recommandations application allows you to explore a wide range of books, add them to your collection, and mark your favorites. You can also add reviews, give ratings, and see the most popular and latest books. Based on your favorite books, we will send you personalized recommendations via email to help you discover new books that match your interests. https://c47-group-a.hackyourfuture.tech/welcome
-
+- [TypeScript React consultaion agency website](https://bereket-gebreyesus.github.io/Consultation-Agency/#/)
+- [MERN stack MongoDB, Express.js, ReactJs, NodeJs Book Recommentaion App](https://github.com/Bereket-Gebreyesus/Book-Recommendation-App):
 ## 🌱 Learning Goals
-- Cloud services (AWS).
+- Artificial Intelegence
 
 ## 💻 Technologies & Tools
 
 <div align="center">
-   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
@@ -49,11 +49,9 @@
 </div>
 
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Bereket-Gebreyesus&show_icons=true&theme=radical&cache_seconds=1800" style="height: 200px; width: 400px;" />
-</div>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bereket-Gebreyesus&layout=compact&theme=radical" style="height: 200px; width: 400px;" />
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bereket-Gebreyesus&show_icons=true&theme=radical&cache_seconds=1800" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bereket-Gebreyesus&layout=compact&theme=radical" height="200" />
 </div>
 
 ## 🏆 GitHub Trophies
