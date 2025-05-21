@@ -17,10 +17,14 @@
 
 
 ## 🔭 Current Projects
-- [TypeScript React consultaion agency website](https://bereket-gebreyesus.github.io/Consultation-Agency/#/)
-- [MERN stack MongoDB, Express.js, ReactJs, NodeJs Book Recommentaion App](https://github.com/Bereket-Gebreyesus/Book-Recommendation-App):
+- TypeScript React consultaion agency website [Link](https://bereket-gebreyesus.github.io/Consultation-Agency/#/)
+- MERN stack MongoDB, Express.js, ReactJs, NodeJs Book Recommentaion App [Link](https://github.com/Bereket-Gebreyesus/Book-Recommendation-App):
 ## 🌱 Learning Goals
 - Artificial Intelegence
+ ## Certificates
+- FullStack development [Link](https://github.com/Bereket-Gebreyesus/Bereket-Gebreyesus/blob/main/Bereket%20Gebreanenya%20Gebreyesus%20Certificate.pdf)
+- Low-Code Software developer [Link](https://github.com/Bereket-Gebreyesus/Bereket-Gebreyesus/blob/main/Triggre%20ranger%20level%20certificate.pdf)
+
 
 ## 💻 Technologies & Tools
 
