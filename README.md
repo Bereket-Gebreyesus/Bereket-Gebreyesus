@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1 class="typing-demo">I am Bereket Gebreyesus</h1>
-  <h3 class="typing-demo" style="animation-delay: 3.5s; animation-duration: 3.5s;">JavaSctipt/TypeScript Full-Stack Developer </h3>
+  <h3 class="typing-demo" style="animation-delay: 3.5s; animation-duration: 3.5s;"> Full-Stack Developer </h3>
 </div>
 
  <div align="center">
