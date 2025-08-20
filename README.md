@@ -57,8 +57,8 @@
 
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bereket-Gebreyesus&show_icons=true&theme=radical" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bereket-Gebreyesus&layout=compact&theme=radical" height="200" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bereket-Gebreyesus&layout=compact&theme=radical" height="400" />
 </div>
 
 ## 🏆 GitHub Trophies
