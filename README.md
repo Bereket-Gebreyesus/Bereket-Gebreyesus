@@ -17,7 +17,8 @@
 
 
 ## 🔭 Current Projects
-- Inspiration Tool Software - Undergoing Private Project (MERN-Stack).
+-E-commerce App  
+-Inspiration Tool Software - Undergoing Private Project (MERN-Stack).
 - Delivery App - Private Project.
 - TypeScript React consultaion agency website [Link](https://bereket-gebreyesus.github.io/Consultation-Agency/#/)
 - MERN stack MongoDB, Express.js, ReactJs, NodeJs Book Recommentaion App [Link](https://github.com/Bereket-Gebreyesus/Book-Recommendation-App):
