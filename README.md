@@ -17,7 +17,8 @@
 
 
 ## 🔭 Current Projects
-- E-commerce App  
+- E-commerce App
+- GPT-AI-Clone [Link](https://gpt-ai-clone.vercel.app/)
 - Inspiration Tool Software - Undergoing Private Project (MERN-Stack).
 - Delivery App - Private Project.
 - TypeScript React consultaion agency website [Link](https://bereket-gebreyesus.github.io/Consultation-Agency/#/)
