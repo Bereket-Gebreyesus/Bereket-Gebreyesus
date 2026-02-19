@@ -18,12 +18,11 @@
 
 ## 🔭 Current Projects
 -  Inspiration Tool Software - Undergoing Private Project (MERN-Stack) [Link](https://www.inspiretool.nl/login))
+- MERN stack MongoDB, Express.js, ReactJs, NodeJs Book Recommentaion App [Link](https://github.com/Bereket-Gebreyesus/Book-Recommendation-App):
 - GPT-AI-Clone [Link](https://gpt-ai-clone.vercel.app/)
-- E-commerce App
 - Delivery App - Private Project.
 - TypeScript React consultaion agency website [Link](https://bereket-gebreyesus.github.io/Consultation-Agency/#/)
-- MERN stack MongoDB, Express.js, ReactJs, NodeJs Book Recommentaion App [Link](https://github.com/Bereket-Gebreyesus/Book-Recommendation-App):
-
+- E-commerce App 
 ## 🌱 Learning Goals
 - Artificial Intelegence
  ## Certificates
